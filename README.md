@@ -37,5 +37,9 @@ All the necessary dependencies are included via CDNs (Content Delivery Networks)
 
 ## Conclusion
 The ATM-Improvement app is a basic ATM simulation with added functionality to prevent cash back withdrawals greater than the account balance. The use of JSX and React allows for a more modular and interactive user interface. Feel free to explore and modify the code to enhance the app further based on your requirements.
+  
+The author of this application is Abdelkarim Sayar, a student at MIT specializing in Full Stack Development with the MERN stack.
+
+The project is licensed under the MIT License.
 
 Happy banking!
